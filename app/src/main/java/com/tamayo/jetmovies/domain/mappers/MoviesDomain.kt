@@ -1,4 +1,4 @@
-package com.tamayo.jetmovies.domain
+package com.tamayo.jetmovies.domain.mappers
 
 import com.google.gson.annotations.SerializedName
 import com.tamayo.jetmovies.data.movies.Result
